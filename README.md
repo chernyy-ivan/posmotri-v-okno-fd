@@ -1,1 +1,1 @@
-git@github.com:chernyy-ivan/posmotri-v-okno-fd.git
+https://github.com/chernyy-ivan/posmotri-v-okno-fd.git
