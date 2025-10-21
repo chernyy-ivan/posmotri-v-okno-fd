@@ -1,0 +1,1 @@
+git@github.com:chernyy-ivan/posmotri-v-okno-fd.git
